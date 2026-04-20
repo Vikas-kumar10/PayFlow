@@ -5,7 +5,7 @@ const doc = {
     title: 'PhonePe Clone API',
     description: 'A simple clone backend for PhonePe features (Auth, Send Money, History)',
   },
-  host: 'localhost:5000',
+  host: 'localhost:3000',
   schemes: ['http'],
   securityDefinitions: {
     bearerAuth: {
